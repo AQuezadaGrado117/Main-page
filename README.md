@@ -16,6 +16,8 @@
 
 * Post a link to your GitHub Page as well as the job posting 
 
+https://github.com/AQuezadaGrado117/Main-page
+
 https://www.indeed.com/viewjob?cmp=Zigzy&t=Software+Development+Manager&jk=92c524868822d9da&sjdu=QwrRXKrqZ3CNX5W-O9jEvRFd8FQI4DEv5V74lSpSnHYSxHH_1rO7eAgvLUe62VhAc1baiJiEauDNc3hHXPe6NabcnZfkoRKFZkIyPDsyDVw&tk=1ej794is92vt8000&adid=206293257&ad=-6NYlbfkN0C2BFb7Ub2YUp4strrym9V3pWtjyRKtgHKt_kMzkewmGGJEved23y_kY-GSZp2akmP0khyqKxtbFZfUslm08W7cGNzuSKCg61SpKQv1upPjO4iSq-QH2AJkQ47otWvRklECmrewkWbOzACPA7xPG1HianVyiMWiRZeND0U_g14t6hhVipW_H-3AIY5vhtYV9s8aFDA21NfNkZXkRr2gSI8ruT1sF8egEonq4LHq9jffbbPbZdaVp1K3wZ7aAo3zVDKCo7wEAV6Bg2esuGX_dj709wVBDUC-LvjgNDHgCV91xwm2M2MeQIEwl9MCkLkeVddGMPxb_b47J58Lm-o6RnXz&pub=4a1b367933fd867b19b072952f68dceb&vjs=3
 
 * What do you value in a career? what are the most important parts?
